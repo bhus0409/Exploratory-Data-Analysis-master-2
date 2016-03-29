@@ -1,6 +1,5 @@
 # Exploratory Data Analysis - Assignment 2 - Q. #2
-# Ron Mashrouteh May 23, 2014
-
+# Bhushan 2016
 # Loading provided datasets - loading from local machine
 NEI <- readRDS("~/Exploratory_Data_Analysis/Assignment_2/summarySCC_PM25.rds")
 SCC <- readRDS("~/Exploratory_Data_Analysis/Assignment_2/Source_Classification_Code.rds")

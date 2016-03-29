@@ -1,5 +1,5 @@
 # Exploratory Data Analysis - Assignment 2 - Q. #6
-# Ron Mashrouteh May 23, 2014
+# Bhushan 2016
 
 # Load ggplot2 library
 library(ggplot2)
